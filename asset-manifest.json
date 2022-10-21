@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/knlrvr.io/Vault-Tec/static/css/main.410cc559.css",
-    "main.js": "/knlrvr.io/Vault-Tec/static/js/main.a02aa8fd.js",
-    "static/js/787.8ffdc9de.chunk.js": "/knlrvr.io/Vault-Tec/static/js/787.8ffdc9de.chunk.js",
-    "static/media/vb-finger.svg": "/knlrvr.io/Vault-Tec/static/media/vb-finger.d9395fe7adbcade9e688ef61319644b2.svg",
-    "static/media/vb-wink.svg": "/knlrvr.io/Vault-Tec/static/media/vb-wink.bf5e7c36388c1174d8a70b0dee124599.svg",
-    "static/media/logo.svg": "/knlrvr.io/Vault-Tec/static/media/logo.8e453f6f907432628a10e0a4b21ee1e9.svg",
-    "index.html": "/knlrvr.io/Vault-Tec/index.html",
-    "main.410cc559.css.map": "/knlrvr.io/Vault-Tec/static/css/main.410cc559.css.map",
-    "main.a02aa8fd.js.map": "/knlrvr.io/Vault-Tec/static/js/main.a02aa8fd.js.map",
-    "787.8ffdc9de.chunk.js.map": "/knlrvr.io/Vault-Tec/static/js/787.8ffdc9de.chunk.js.map"
+    "main.css": "/vault-tec/static/css/main.410cc559.css",
+    "main.js": "/vault-tec/static/js/main.8b313ece.js",
+    "static/js/787.8ffdc9de.chunk.js": "/vault-tec/static/js/787.8ffdc9de.chunk.js",
+    "static/media/vb-finger.svg": "/vault-tec/static/media/vb-finger.d9395fe7adbcade9e688ef61319644b2.svg",
+    "static/media/vb-wink.svg": "/vault-tec/static/media/vb-wink.bf5e7c36388c1174d8a70b0dee124599.svg",
+    "static/media/logo.svg": "/vault-tec/static/media/logo.8e453f6f907432628a10e0a4b21ee1e9.svg",
+    "index.html": "/vault-tec/index.html",
+    "main.410cc559.css.map": "/vault-tec/static/css/main.410cc559.css.map",
+    "main.8b313ece.js.map": "/vault-tec/static/js/main.8b313ece.js.map",
+    "787.8ffdc9de.chunk.js.map": "/vault-tec/static/js/787.8ffdc9de.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.410cc559.css",
-    "static/js/main.a02aa8fd.js"
+    "static/js/main.8b313ece.js"
   ]
 }
