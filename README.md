@@ -1,11 +1,11 @@
 # Vault-Tec Industries! 
-
 https://user-images.githubusercontent.com/91632194/197083509-8c04476b-cccd-4d4a-90c8-5c5157f0e9ee.mov
 
+This is a responsive Vault-Tec website. Vault-Tec is a fictional company in the Fallout game series. 
 
+## Built With
 
-
-
+- [React JS](https://reactjs.org/docs/getting-started.html)
 
 # Getting Started with Create React App
 
