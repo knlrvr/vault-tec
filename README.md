@@ -3,6 +3,7 @@ https://user-images.githubusercontent.com/91632194/197083509-8c04476b-cccd-4d4a-
 
 This is a responsive Vault-Tec website. Vault-Tec is a fictional company in the Fallout game series. 
 <br><br> fIrT cOmMiT, i'm so upset. 
+<br> *App currently will 404 when accessing nav links.*
 
 ## Built With
 
