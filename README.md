@@ -11,7 +11,7 @@ This is a responsive Vault-Tec website. Vault-Tec is a fictional company in the 
 
 ## Built With
 
-- [React JS](https://reactjs.org/docs/getting-started.html)
+[React JS](https://reactjs.org/docs/getting-started.html)
 
 ## Running Vault-Tec Yourself
 
