@@ -1,5 +1,7 @@
 <h2 align="center"> Vault-Tec Industries! </h2>
 
+[LIVE DEMO](https://knlrvr.github.io/vault-tec)
+
 ![Screen Shot 2022-10-28 at 9 21 34 AM](https://user-images.githubusercontent.com/91632194/198606498-11024c20-27ef-41ff-8b24-fc82367815e0.png)
 
 This is a responsive Vault-Tec website. Vault-Tec is a fictional company in the Fallout game series. 
@@ -9,6 +11,14 @@ This is a responsive Vault-Tec website. Vault-Tec is a fictional company in the 
 ## Built With
 
 - [React JS](https://reactjs.org/docs/getting-started.html)
+
+## Running Vault-Tec Yourself
+
+Here's how to get this on your computer!
+
+1. Clone the project to your machine with 'git clone https://github.com/knlrvr/vault-tec.git'
+2. On a command line inside of the application's folder, run `npm start`
+3. Open [http://localhost:3000](http://localhost:3000) to view it in the browser
 
 # Getting Started with Create React App
 
