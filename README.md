@@ -1,5 +1,6 @@
 <h2 align="center"> Vault-Tec Industries! </h2>
-https://user-images.githubusercontent.com/91632194/197083509-8c04476b-cccd-4d4a-90c8-5c5157f0e9ee.mov
+
+![Screen Shot 2022-10-28 at 9 21 34 AM](https://user-images.githubusercontent.com/91632194/198606498-11024c20-27ef-41ff-8b24-fc82367815e0.png)
 
 This is a responsive Vault-Tec website. Vault-Tec is a fictional company in the Fallout game series. 
 <br><br> fIrT cOmMiT, i'm so upset. 
