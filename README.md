@@ -7,7 +7,7 @@ This is a responsive Vault-Tec website. Vault-Tec is a fictional company in the 
 <br> *App currently will 404 when accessing nav links.*
 
 ## View
-[LIVE DEMO](https://knlrvr.github.io/vault-tec)
+[Live Demo](https://knlrvr.github.io/vault-tec)
 
 ## Built With
 [React JS](https://reactjs.org/docs/getting-started.html)
