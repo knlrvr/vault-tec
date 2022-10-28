@@ -1,12 +1,13 @@
 <h2 align="center"> Vault-Tec Industries! </h2>
 
-[LIVE DEMO](https://knlrvr.github.io/vault-tec)
-
 ![Screen Shot 2022-10-28 at 9 21 34 AM](https://user-images.githubusercontent.com/91632194/198606498-11024c20-27ef-41ff-8b24-fc82367815e0.png)
 
 This is a responsive Vault-Tec website. Vault-Tec is a fictional company in the Fallout game series. 
 <br><br> fIrT cOmMiT, i'm so upset. 
 <br> *App currently will 404 when accessing nav links.*
+
+## View
+[LIVE DEMO](https://knlrvr.github.io/vault-tec)
 
 ## Built With
 
