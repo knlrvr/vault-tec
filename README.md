@@ -14,9 +14,8 @@ This is a responsive Vault-Tec website. Vault-Tec is a fictional company in the 
 [React JS](https://reactjs.org/docs/getting-started.html)
 
 ## Running Vault-Tec Yourself
-Here's how to run this on your computer!
 
-1. Clone the project to your machine with 'git clone https://github.com/knlrvr/vault-tec.git'
+1. Clone the project to your machine with `git clone https://github.com/knlrvr/vault-tec.git`
 2. On a command line inside of the application's folder, run `npm start`
 3. Open [http://localhost:3000](http://localhost:3000) to view it in the browser
 
